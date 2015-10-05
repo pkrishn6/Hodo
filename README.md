@@ -14,4 +14,4 @@ $ git clone https://github.com/pkrishn6/Hodo
 $ cd Hodo && npm install
 $ grunt
 ```
-[Go Here](http://localhost:3000/)
+[Go Here](http://localhost:5000/)
