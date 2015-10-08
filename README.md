@@ -12,6 +12,7 @@ mongod --dbpath data/db(path to folder)
 ```bash
 $ git clone https://github.com/pkrishn6/Hodo
 $ cd Hodo && npm install
+$ bower install
 $ grunt
 ```
 [Go Here](http://localhost:5000/)
